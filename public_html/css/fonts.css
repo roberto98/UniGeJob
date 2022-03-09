@@ -1,0 +1,29 @@
+h1 {
+  font-family: roboto-slab, serif;  /* Robot slab bold */
+  font-style: bold;
+  font-weight: 700;
+}
+
+h2 {
+  font-family: roboto-slab, serif;    /* Roboto slab regular */
+  font-style: normal;
+  font-weight: 400;
+}
+
+.subtitle {
+  font-family: fira-sans, sans-serif;   /* Fire sans bold */
+  font-style: bold;
+  font-weight: 700;
+}
+
+.contents {
+  font-family: fira-sans, sans-serif; /* Fire sans regular */
+  font-style: normal;
+  font-weight: 400;
+}
+
+.note {
+font-family: fira-sans, sans-serif;   /* Fire sans italic */
+font-style: italic;
+font-weight: 100;
+}
