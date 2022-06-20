@@ -1,4 +1,4 @@
-# UniGeJobs
+# UniGeJobs WebApp
 📚 Progetto per l'esame "Sviluppo Applicazioni Web" + "Web Design"
 
 ### Cos'è UniGeJobs?
